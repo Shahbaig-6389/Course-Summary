@@ -38,6 +38,31 @@
     * [Image](/types/image)
     * [Sprite](/types/sprite)
 
+## Python #python
+
+* [Python](/python)
+    * [Calling](/python/call)
+    * [Sequencing](/python/sequence)
+    * [Variables](/python/variables)
+    * [Operators](/python/operators)
+    * [Statements](/python/statements)
+    * [Functions](/python/functions)
+    * [Classes](/python/classes)
+
+## JavaScript #javaScript
+
+* [JavaScript](/javascript)
+    * [Calling](/javascript/call)
+    * [Sequencing](/javascript/sequence)
+    * [Variables](/javascript/variables)
+    * [Operators](/javascript/operators)
+    * [Statements](/javascript/statements)
+    * [Functions](/javascript/functions)
+    * [Types](/javascript/types)
+    * [Classes](/javascript/classes)
+    * [Interfaces](/javascript/interfaces)
+    * [Generics](/javascript/generics)
+
 ## #other
 
 * [Blocks Gallery](/block-gallery)
@@ -75,3 +100,10 @@
     * [Blocks Embed](/blocks-embed)
     * [Art, images, colors](/developer/images)
     * [Sounds](/developer/sound)
+ 
+# Summary
+
+* [About](/about)
+* [FAQ](/faq)
+* [Projects](/projects)
+* [GitHub](/github)
