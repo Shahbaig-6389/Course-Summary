@@ -1,5 +1,4 @@
 # Course-Summary
-# @extends
 
 ## Projects
 
